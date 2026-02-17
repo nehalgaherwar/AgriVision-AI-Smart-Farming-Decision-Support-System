@@ -21,3 +21,8 @@ A web-based farming assistant that helps farmers:
 
 3. Open browser:
    http://127.0.0.1:5000/
+
+
+🔥 Run Karne Ka Tarika
+pip install flask
+python app.py
