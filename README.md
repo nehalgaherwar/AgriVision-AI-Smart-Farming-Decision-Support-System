@@ -54,12 +54,17 @@ python app.py
 
 ---
 
-Input:
-Soil: Loamy
-pH: 6.5
-Nitrogen: Medium
+```
+ex:-                                                                  
+Input:                                                               
+Soil: Loamy                                                                        
+pH: 6.5                                                      
+Nitrogen: Medium                                                                        
+                                                                              
+Output:                                                                                          
+Best Crops: Wheat, Rice, Maize                              
+Fertilizer: Urea (Moderate)                                    
+                             ```
 
-Output:
-Best Crops: Wheat, Rice, Maize
-Fertilizer: Urea (Moderate)
-
+----
+          
